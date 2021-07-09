@@ -1,1 +1,4 @@
 This is Ken, today we are learing git.
+We are learning more git commands today.
+This text is entered using nano.
+This text is entered using vi.
